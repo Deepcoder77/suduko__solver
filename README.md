@@ -1,1 +1,1 @@
-# suduko__solver
+# sudoku-game
